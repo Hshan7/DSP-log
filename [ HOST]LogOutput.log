@@ -1,0 +1,161 @@
+[Message:   BepInEx] BepInEx 5.4.17.0 - DSPGAME (2022/1/30 22:16:05)
+[Info   :   BepInEx] Running under Unity v2018.4.12.5889476
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.17020
+[Info   :   BepInEx] Supports SRE: False
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.17.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 2 plugins to load
+[Info   :   BepInEx] Loading [NebulaMultiplayerMod 0.7.10.4]
+[Info   :NebulaMultiplayerMod] Patching Dyson Sphere Program...
+[Info   :NebulaMultiplayerMod] Applying patches from NebulaMultiplayerMod 0.7.10.0
+[Info   :NebulaMultiplayerMod] Patching completed successfully
+[Info   :NebulaMultiplayerMod] Applying Nebula behaviours..
+[Info   :NebulaMultiplayerMod] Behaviours applied.
+[Info   :   BepInEx] Loading [NebulaMultiplayerModApi 1.1.2.2]
+[Info   :NebulaMultiplayerModApi] Nebula API is ready!
+[Message:   BepInEx] Chainloader startup complete
+[Info   :NebulaMultiplayerMod] Listening server on port 8469
+[Info   :NebulaMultiplayerMod] Registering Nested Type: Double3
+[Info   :NebulaMultiplayerMod] Registering Nested Type: Float3
+[Info   :NebulaMultiplayerMod] Registering Nested Type: Float4
+[Info   :NebulaMultiplayerMod] Registering Nested Type: BeltUpdate
+[Info   :NebulaMultiplayerMod] Registering Nested Type: GameState
+[Info   :NebulaMultiplayerMod] Registering Nested Type: MechaData
+[Info   :NebulaMultiplayerMod] Registering Nested Type: PlayerData
+[Info   :NebulaMultiplayerMod] Registering WarningDataProcessor to process packet of type: WarningDataPacket
+[Info   :NebulaMultiplayerMod] Registering WarningDataRequestProcessor to process packet of type: WarningDataRequest
+[Info   :NebulaMultiplayerMod] Registering WarningSignalProcessor to process packet of type: WarningSignalPacket
+[Info   :NebulaMultiplayerMod] Registering DysonLaunchDataProcessor to process packet of type: DysonLaunchDataPacket
+[Info   :NebulaMultiplayerMod] Registering DysonSphereAddFrameProcessor to process packet of type: DysonSphereAddFramePacket
+[Info   :NebulaMultiplayerMod] Registering DysonSphereAddLayerProcessor to process packet of type: DysonSphereAddLayerPacket
+[Info   :NebulaMultiplayerMod] Registering DysonSphereAddNodeProcessor to process packet of type: DysonSphereAddNodePacket
+[Info   :NebulaMultiplayerMod] Registering DysonSphereAddShellProcessor to process packet of type: DysonSphereAddShellPacket
+[Info   :NebulaMultiplayerMod] Registering DysonSphereDataProcessor to process packet of type: DysonSphereData
+[Info   :NebulaMultiplayerMod] Registering DysonSphereRemoveFrameProcessor to process packet of type: DysonSphereRemoveFramePacket
+[Info   :NebulaMultiplayerMod] Registering DysonSphereRemoveLayerProcessor to process packet of type: DysonSphereRemoveLayerPacket
+[Info   :NebulaMultiplayerMod] Registering DysonSphereRemoveNodeProcessor to process packet of type: DysonSphereRemoveNodePacket
+[Info   :NebulaMultiplayerMod] Registering DysonSphereRemoveShellProcessor to process packet of type: DysonSphereRemoveShellPacket
+[Info   :NebulaMultiplayerMod] Registering DysonSphereRequestProcessor to process packet of type: DysonSphereLoadRequest
+[Info   :NebulaMultiplayerMod] Registering DysonSphereStatusProcessor to process packet of type: DysonSphereStatusPacket
+[Info   :NebulaMultiplayerMod] Registering DysonSwarmAddOrbitProcessor to process packet of type: DysonSwarmAddOrbitPacket
+[Info   :NebulaMultiplayerMod] Registering DysonSwarmRemoveOrbitProcessor to process packet of type: DysonSwarmRemoveOrbitPacket
+[Info   :NebulaMultiplayerMod] Registering NameInputProcessor to process packet of type: NameInputPacket
+[Info   :NebulaMultiplayerMod] Registering TrashSystemClearAllTrashProcessor to process packet of type: TrashSystemClearAllTrashPacket
+[Info   :NebulaMultiplayerMod] Registering TrashSystemCorrectionIdProcessor to process packet of type: TrashSystemCorrectionIdPacket
+[Info   :NebulaMultiplayerMod] Registering TrashSystemNewTrashCreatedProcessor to process packet of type: TrashSystemNewTrashCreatedPacket
+[Info   :NebulaMultiplayerMod] Registering TrashSystemRequestDataProcessor to process packet of type: TrashSystemRequestDataPacket
+[Info   :NebulaMultiplayerMod] Registering TrashSystemResponseDataProcessor to process packet of type: TrashSystemResponseDataPacket
+[Info   :NebulaMultiplayerMod] Registering TrashSystemTrashRemovedProcessor to process packet of type: TrashSystemTrashRemovedPacket
+[Info   :NebulaMultiplayerMod] Registering StatisticsDataProcessor to process packet of type: StatisticsDataPacket
+[Info   :NebulaMultiplayerMod] Registering StatisticsRequestEventProcessor to process packet of type: StatisticsRequestEvent
+[Info   :NebulaMultiplayerMod] Registering StatisticsUpdateProcessor to process packet of type: StatisticUpdateDataPacket
+[Info   :NebulaMultiplayerMod] Registering HandshakeRequestProcessor to process packet of type: HandshakeRequest
+[Info   :NebulaMultiplayerMod] Registering HandshakeResponseProcessor to process packet of type: HandshakeResponse
+[Info   :NebulaMultiplayerMod] Registering LobbyRequestProcessor to process packet of type: LobbyRequest
+[Info   :NebulaMultiplayerMod] Registering LobbyResponseProcessor to process packet of type: LobbyResponse
+[Info   :NebulaMultiplayerMod] Registering LobbyUpdateValuesProcessor to process packet of type: LobbyUpdateValues
+[Info   :NebulaMultiplayerMod] Registering PingPacketProcessor to process packet of type: PingPacket
+[Info   :NebulaMultiplayerMod] Registering PlayerDisconnectedProcessor to process packet of type: PlayerDisconnected
+[Info   :NebulaMultiplayerMod] Registering PlayerJoiningProcessor to process packet of type: PlayerJoining
+[Info   :NebulaMultiplayerMod] Registering StartGameMessageProcessor to process packet of type: StartGameMessage
+[Info   :NebulaMultiplayerMod] Registering SyncCompleteProcessor to process packet of type: SyncComplete
+[Info   :NebulaMultiplayerMod] Registering PlanetBroadcastProcessor to process packet of type: PlanetBroadcastPacket
+[Info   :NebulaMultiplayerMod] Registering StarBroadcastProcessor to process packet of type: StarBroadcastPacket
+[Info   :NebulaMultiplayerMod] Registering NewDroneOrderProcessor to process packet of type: NewDroneOrderPacket
+[Info   :NebulaMultiplayerMod] Registering PlayerAnimationUpdateProcessor to process packet of type: PlayerAnimationUpdate
+[Info   :NebulaMultiplayerMod] Registering PlayerColorChangedProcessor to process packet of type: PlayerColorChanged
+[Info   :NebulaMultiplayerMod] Registering PlayerMechaDataProcessor to process packet of type: PlayerMechaData
+[Info   :NebulaMultiplayerMod] Registering PlayerMovementProcessor to process packet of type: PlayerMovement
+[Info   :NebulaMultiplayerMod] Registering PlayerUpdateLocalStarIdProcessor to process packet of type: PlayerUpdateLocalStarId
+[Info   :NebulaMultiplayerMod] Registering PlayerUseWarperProcessor to process packet of type: PlayerUseWarper
+[Info   :NebulaMultiplayerMod] Registering FactoryDataProcessor to process packet of type: FactoryData
+[Info   :NebulaMultiplayerMod] Registering FactoryLoadRequestProcessor to process packet of type: FactoryLoadRequest
+[Info   :NebulaMultiplayerMod] Registering PlanetDataRequestProcessor to process packet of type: PlanetDataRequest
+[Info   :NebulaMultiplayerMod] Registering PlanetDataResponseProcessor to process packet of type: PlanetDataResponse
+[Info   :NebulaMultiplayerMod] Registering VegeMinedProcessor to process packet of type: VegeMinedPacket
+[Info   :NebulaMultiplayerMod] Registering ILSAddStationComponentProcessor to process packet of type: ILSAddStationComponent
+[Info   :NebulaMultiplayerMod] Registering ILSArriveStarPlanetRequestProcessor to process packet of type: ILSArriveStarPlanetRequest
+[Info   :NebulaMultiplayerMod] Registering ILSArriveStarPlanetResponseProcessor to process packet of type: ILSArriveStarPlanetResponse
+[Info   :NebulaMultiplayerMod] Registering ILSEnergyConsumeNotificationProcessor to process packet of type: ILSEnergyConsumeNotification
+[Info   :NebulaMultiplayerMod] Registering ILSgStationPoolSyncProcessor to process packet of type: ILSgStationPoolSync
+[Info   :NebulaMultiplayerMod] Registering ILSgStationPoolSyncRequestProcessor to process packet of type: ILSRequestgStationPoolSync
+[Info   :NebulaMultiplayerMod] Registering ILSRemoteOrderProcessor to process packet of type: ILSRemoteOrderData
+[Info   :NebulaMultiplayerMod] Registering ILSRemoveStationComponentProcessor to process packet of type: ILSRemoveStationComponent
+[Info   :NebulaMultiplayerMod] Registering ILSRequestShipDockProcessor to process packet of type: ILSRequestShipDock
+[Info   :NebulaMultiplayerMod] Registering ILSResponseShipDockProcessor to process packet of type: ILSShipDock
+[Info   :NebulaMultiplayerMod] Registering ILSShipDataUpdateProcessor to process packet of type: ILSShipDataUpdate
+[Info   :NebulaMultiplayerMod] Registering ILSShipItemsProcessor to process packet of type: ILSShipItems
+[Info   :NebulaMultiplayerMod] Registering ILSShipProcessor to process packet of type: ILSShipData
+[Info   :NebulaMultiplayerMod] Registering ILSShipUpdateWarperCntProcessor to process packet of type: ILSShipUpdateWarperCnt
+[Info   :NebulaMultiplayerMod] Registering ILSUpdateSlotDataProcessor to process packet of type: ILSUpdateSlotData
+[Info   :NebulaMultiplayerMod] Registering StationSubscribeUIUpdatesProcessor to process packet of type: StationSubscribeUIUpdates
+[Info   :NebulaMultiplayerMod] Registering StationUIInitialSyncProcessor to process packet of type: StationUIInitialSync
+[Info   :NebulaMultiplayerMod] Registering StationUIInitialSyncRequestProcessor to process packet of type: StationUIInitialSyncRequest
+[Info   :NebulaMultiplayerMod] Registering StationUIProcessor to process packet of type: StationUI
+[Info   :NebulaMultiplayerMod] Registering GameStateUpdateProcessor to process packet of type: GameStateUpdate
+[Info   :NebulaMultiplayerMod] Registering GameHistoryDataRequestProcessor to process packet of type: GameHistoryDataRequest
+[Info   :NebulaMultiplayerMod] Registering GameHistoryDataResponseProcessor to process packet of type: GameHistoryDataResponse
+[Info   :NebulaMultiplayerMod] Registering GameHistoryEnqueueTechProcessor to process packet of type: GameHistoryEnqueueTechPacket
+[Info   :NebulaMultiplayerMod] Registering GameHistoryNotificationProcessor to process packet of type: GameHistoryNotificationPacket
+[Info   :NebulaMultiplayerMod] Registering GameHistoryRemoveTechProcessor to process packet of type: GameHistoryRemoveTechPacket
+[Info   :NebulaMultiplayerMod] Registering GameHistoryResearchContributionProcessor to process packet of type: GameHistoryResearchContributionPacket
+[Info   :NebulaMultiplayerMod] Registering GameHistoryResearchUpdateProcessor to process packet of type: GameHistoryResearchUpdatePacket
+[Info   :NebulaMultiplayerMod] Registering GameHistoryTechRefundProcessor to process packet of type: GameHistoryTechRefundPacket
+[Info   :NebulaMultiplayerMod] Registering GameHistoryUnlockTechProcessor to process packet of type: GameHistoryUnlockTechPacket
+[Info   :NebulaMultiplayerMod] Registering TankInputOutputSwitchProcessor to process packet of type: TankInputOutputSwitchPacket
+[Info   :NebulaMultiplayerMod] Registering TankStorageUpdateProcessor to process packet of type: TankStorageUpdatePacket
+[Info   :NebulaMultiplayerMod] Registering StorageSyncRealtimeChangeProcessor to process packet of type: StorageSyncRealtimeChangePacket
+[Info   :NebulaMultiplayerMod] Registering StorageSyncRequestProcessor to process packet of type: StorageSyncRequestPacket
+[Info   :NebulaMultiplayerMod] Registering StorageSyncResponseProcessor to process packet of type: StorageSyncResponsePacket
+[Info   :NebulaMultiplayerMod] Registering StorageSyncSetBansProcessor to process packet of type: StorageSyncSetBansPacket
+[Info   :NebulaMultiplayerMod] Registering StorageSyncSortProcessor to process packet of type: StorageSyncSortPacket
+[Info   :NebulaMultiplayerMod] Registering SplitterFilterChangeProcessor to process packet of type: SplitterFilterChangePacket
+[Info   :NebulaMultiplayerMod] Registering SplitterPriorityChangeProcessor to process packet of type: SplitterPriorityChangePacket
+[Info   :NebulaMultiplayerMod] Registering SiloStorageUpdateProcessor to process packet of type: SiloStorageUpdatePacket
+[Info   :NebulaMultiplayerMod] Registering RayReceiverChangeLensProcessor to process packet of type: RayReceiverChangeLensPacket
+[Info   :NebulaMultiplayerMod] Registering RayReceiverChangeModeProcessor to process packet of type: RayReceiverChangeModePacket
+[Info   :NebulaMultiplayerMod] Registering PowerTowerUserLoadingRequestProcessor to process packet of type: PowerTowerUserLoadingRequest
+[Info   :NebulaMultiplayerMod] Registering PowerTowerUserLoadResponseProcessor to process packet of type: PowerTowerUserLoadingResponse
+[Info   :NebulaMultiplayerMod] Registering PowerGeneratorFuelUpdateProcessor to process packet of type: PowerGeneratorFuelUpdatePacket
+[Info   :NebulaMultiplayerMod] Registering PowerExchangerChangeModeProcessor to process packet of type: PowerExchangerChangeModePacket
+[Info   :NebulaMultiplayerMod] Registering PowerExchangerStorageUpdateProcessor to process packet of type: PowerExchangerStorageUpdatePacket
+[Info   :NebulaMultiplayerMod] Registering MonitorSettingUpdateProcessor to process packet of type: MonitorSettingUpdatePacket
+[Info   :NebulaMultiplayerMod] Registering SpeakerSettingUpdateProcessor to process packet of type: SpeakerSettingUpdatePacket
+[Info   :NebulaMultiplayerMod] Registering MinerStoragePickupProcessor to process packet of type: MinerStoragePickupPacket
+[Info   :NebulaMultiplayerMod] Registering LaboratoryUpdateCubesProcessor to process packet of type: LaboratoryUpdateCubesPacket
+[Info   :NebulaMultiplayerMod] Registering LaboratoryUpdateEventProcessor to process packet of type: LaboratoryUpdateEventPacket
+[Info   :NebulaMultiplayerMod] Registering LaboratoryUpdateStorageProcessor to process packet of type: LaboratoryUpdateStoragePacket
+[Info   :NebulaMultiplayerMod] Registering InserterFilterUpdateProcessor to process packet of type: InserterFilterUpdatePacket
+[Info   :NebulaMultiplayerMod] Registering NewSetInserterInsertTargetProcessor to process packet of type: NewSetInserterInsertTargetPacket
+[Info   :NebulaMultiplayerMod] Registering NewSetInserterPickTargetProcessor to process packet of type: NewSetInserterPickTargetPacket
+[Info   :NebulaMultiplayerMod] Registering FoundationBuildUpdateProcessor to process packet of type: FoundationBuildUpdatePacket
+[Info   :NebulaMultiplayerMod] Registering BuildEntityRequestProcessor to process packet of type: BuildEntityRequest
+[Info   :NebulaMultiplayerMod] Registering CreatePrebuildsRequestProcessor to process packet of type: CreatePrebuildsRequest
+[Info   :NebulaMultiplayerMod] Registering DestructEntityRequestProcessor to process packet of type: DestructEntityRequest
+[Info   :NebulaMultiplayerMod] Registering EntityWarningSwitchProcessor to process packet of type: EntityWarningSwitchPacket
+[Info   :NebulaMultiplayerMod] Registering PasteBuildingSettingUpdateProcessor to process packet of type: PasteBuildingSettingUpdate
+[Info   :NebulaMultiplayerMod] Registering UpgradeEntityRequestProcessor to process packet of type: UpgradeEntityRequest
+[Info   :NebulaMultiplayerMod] Registering EjectorOrbitUpdateProcessor to process packet of type: EjectorOrbitUpdatePacket
+[Info   :NebulaMultiplayerMod] Registering EjectorStorageUpdateProcessor to process packet of type: EjectorStorageUpdatePacket
+[Info   :NebulaMultiplayerMod] Registering BeltUpdatePickupItemsProcessor to process packet of type: BeltUpdatePickupItemsPacket
+[Info   :NebulaMultiplayerMod] Registering BeltUpdatePutItemOnProcessor to process packet of type: BeltUpdatePutItemOnPacket
+[Info   :NebulaMultiplayerMod] Registering AssemblerRecipeEventProcessor to process packet of type: AssemblerRecipeEventPacket
+[Info   :NebulaMultiplayerMod] Registering AssemblerUpdateProducesProcessor to process packet of type: AssemblerUpdateProducesPacket
+[Info   :NebulaMultiplayerMod] Registering AssemblerUpdateStorageProcessor to process packet of type: AssemblerUpdateStoragePacket
+[Warning:NebulaMultiplayerMod] UIAutoSave active: True
+[Info   :NebulaMultiplayerMod] Game load completed
+[Info   :NebulaMultiplayerMod] Changing color of player 1
+[Info   :NebulaMultiplayerMod] Color 0: x: 209, y: 151, z: 76, w: 255
+[Info   :NebulaMultiplayerMod] Color 1: x: 184, y: 90, z: 72, w: 255
+[Info   :NebulaMultiplayerMod] Color 2: x: 94, y: 92, z: 92, w: 255
+[Info   :NebulaMultiplayerMod] Color 3: x: 123, y: 234, z: 255, w: 255
+[Info   :NebulaMultiplayerMod] Color 4: x: 229, y: 155, z: 94, w: 255
+[Info   :NebulaMultiplayerMod] Color 5: x: 255, y: 243, z: 235, w: 255
+[Info   :NebulaMultiplayerMod] Color 6: x: 255, y: 248, z: 245, w: 255
+[Info   :NebulaMultiplayerMod] Color 7: x: 255, y: 255, z: 255, w: 255
